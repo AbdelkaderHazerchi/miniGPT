@@ -25,6 +25,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
+- [!Update](#update)
 
 ---
 
@@ -607,6 +608,15 @@ If you use MiniGPT in your research or project, please cite:
   url = {https://github.com/AbdelkaderHazerchi/minigpt}
 }
 ```
+
+## update
+
+- **Version 1.2**:
+
+*The models can be used directly through the miniGPT-Operator program.
+Select the task type (Analyze a model, Use a model), then specify the folder containing the model, which can then be analyzed and interacted with.
+The models can be used directly through the miniGPT-Operator program.
+Select the task type (Analyze a model, Use a model), then specify the folder containing the model that can be analyzed and interacted with, provided that the folder containing the models (models) is located in the same path.*
 
 ---
 
